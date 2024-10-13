@@ -1,6 +1,6 @@
 {
   "name": "tabla",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tabla de multiplicar",
   "main": "app.js",
   "scripts": {
